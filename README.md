@@ -2,7 +2,7 @@
 
 TEAM MEMBERS (Name, Student Id, GitHub user name) :
 - Jean Zhang ( 40177899 ) malakai456
-- Mekouar Ali ( 40273411 ) Allix-05
+- Mekouar Ali ( 40273411 ) Allix05
 
 
 
